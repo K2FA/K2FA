@@ -1,5 +1,9 @@
 ## Hi there 👋, I'm Khalid Fadhil Arrafi
 
+- 🏫 I'm student at Politeknik Negeri Malang
+- 🌱 I'm currenly learning  about React JS
+- 👯 I'm looking to collaborate on Frontend Developer
+- 🤔 I'm looking for suggest for Senior Frontend Developer
 <!--
 **K2FA/K2FA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
