@@ -2,7 +2,7 @@
 Hi there 👋, I'm Khalid Fadhil Arrafi
 </h1>
 
-<h2 align='center'>A passionate Software Engineer from Indonesia and eager to learn new things</h2>
+<h2 align='center'>A passionate Frontend Developer from Indonesia and eager to learn new things</h2>
 
 - 🏫 I'm student at Politeknik Negeri Malang
 - 🌱 I'm currently improving my React JS skills
@@ -10,17 +10,50 @@ Hi there 👋, I'm Khalid Fadhil Arrafi
 - 🤔 I'm looking for suggest for Senior Frontend Developer
 - 📫 How to reach me: fadhilarrafikhalid@gmail.com
 
-<h3 >Connect with me: </h3>
-<div style="display: flex; gap: 4px;">
-  <a href="https://www.linkedin.com/in/khalid-fadhil-arrafi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/khalid633_//" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</div>
-<!--
-**K2FA/K2FA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🤝Connect with me: </h3>
+<a href="https://www.linkedin.com/in/khalid-fadhil-arrafi/" target="_blank">
+  <img align="left" src="image/linked-in-alt.svg" width="40px" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/khalid633_/" target="_blank">
+  <img align="left" src="image/instagram.svg" width="40px" alt="Instagram" />
+</a>
+<br/>
+<br/>
+
+### Language and Tools:
+<a href="https://www.w3schools.com/html/">
+    <img align="left" src="https://skillicons.dev/icons?i=html" width="35px"/>
+</a>
+<a href="https://www.w3schools.com/css/">
+    <img align="left" src="https://skillicons.dev/icons?i=css" width="35px" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img align="left" src="https://skillicons.dev/icons?i=js" width="35px"/>
+</a>
+<a href="https://tailwindcss.com/">
+    <img align="left" src="https://skillicons.dev/icons?i=tailwind" width="35px"/>
+</a>
+<a href="https://getbootstrap.com/">
+    <img align="left" src="https://skillicons.dev/icons?i=bootstrap"width="35px" />
+</a>
+<a href="https://react.dev/">
+    <img align="left" src="https://skillicons.dev/icons?i=react"width="35px" />
+</a>
+<a href="https://nextjs.org/">
+    <img align="left" src="https://skillicons.dev/icons?i=nextjs"width="35px" />
+</a>
+<a href="https://www.php.net/">
+    <img align="left" src="https://skillicons.dev/icons?i=php" width="35px"/>
+</a>
+<a href="https://git-scm.com/">
+    <img align="left" src="https://skillicons.dev/icons?i=git"width="35px" />
+</a>
+<a href="https://laravel.com/">
+    <img align="left" src="https://skillicons.dev/icons?i=laravel"width="35px" />
+</a>
+
+
+<!-- **K2FA/K2FA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,5 +64,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
