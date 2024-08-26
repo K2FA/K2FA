@@ -2,6 +2,8 @@
 Hi there 👋, I'm Khalid Fadhil Arrafi
 </h1>
 
+<h2 align='center'>Passionate information technology and eager to learn new things</h2>
+
 - 🏫 I'm student at Politeknik Negeri Malang
 - 🌱 I'm currently improving my React JS skills
 - 👯 I'm looking to collaborate on Frontend Developer
