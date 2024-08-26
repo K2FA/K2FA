@@ -11,7 +11,7 @@ Hi there 👋, I'm Khalid Fadhil Arrafi
 - 📫 How to reach me: fadhilarrafikhalid@gmail.com
 
 <h3 >Connect with me: </h3>
-<a href="https://www.linkedin.com/in/khalid-fadhil-arrafi/">
+<a href="https://www.linkedin.com/in/khalid-fadhil-arrafi/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <!--
