@@ -10,7 +10,10 @@ Hi there 👋, I'm Khalid Fadhil Arrafi
 - 🤔 I'm looking for suggest for Senior Frontend Developer
 - 📫 How to reach me: fadhilarrafikhalid@gmail.com
 
-<a href="linkedin.com/in/khalid-fadhil-arrafi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<h3 >Connect with me: </h3>
+<a href="www.linkedin.com/in/khalid-fadhil-arrafi">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 <!--
 **K2FA/K2FA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
