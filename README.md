@@ -11,7 +11,7 @@ Hi there 👋, I'm Khalid Fadhil Arrafi
 - 📫 How to reach me: fadhilarrafikhalid@gmail.com
 
 <h3 >Connect with me: </h3>
-[![conect with me](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/khalid-fadhil-arrafi)
+[[conect with me](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/khalid-fadhil-arrafi)
 <!--
 **K2FA/K2FA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
