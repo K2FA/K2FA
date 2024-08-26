@@ -1,8 +1,6 @@
-# Hi there 👋, I'm Khalid Fadhil Arrafi
-
-<p align="center">
+<h1 align="center">
 Hi there 👋, I'm Khalid Fadhil Arrafi
-</p>
+</h1>
 
 - 🏫 I'm student at Politeknik Negeri Malang
 - 🌱 I'm currently improving my React JS skills
