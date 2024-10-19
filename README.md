@@ -5,7 +5,7 @@ Hi there 👋, I'm Khalid Fadhil Arrafi
 <h2 align='center'>A passionate Frontend Developer from Indonesia and eager to learn new things</h2>
 
 - 🏫 I'm student at Politeknik Negeri Malang
-- 🌱 I'm currently improving my React JS skills
+- 🌱 I'm currently improving my Frontend Engineer skills
 - 👯 I'm looking to collaborate on Frontend Developer
 - 🤔 I'm looking for suggest for Senior Frontend Developer
 - 📫 How to reach me: fadhilarrafikhalid@gmail.com
