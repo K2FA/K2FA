@@ -51,6 +51,12 @@ Hi there 👋, I'm Khalid Fadhil Arrafi
 <a href="https://laravel.com/">
     <img align="left" src="https://skillicons.dev/icons?i=laravel"width="35px" />
 </a>
+<a href="https://express.com/">
+    <img align="left" src="https://skillicons.dev/icons?i=express"width="35px" />
+</a>
+<a href="https://mysql.com/">
+    <img align="left" src="https://skillicons.dev/icons?i=mysql"width="35px" />
+</a>
 
 
 <!-- **K2FA/K2FA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
