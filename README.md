@@ -14,7 +14,7 @@ Hi there 👋, I'm Khalid Fadhil Arrafi
 <a href="https://www.linkedin.com/in/khalid-fadhil-arrafi/" target="_blank">
   <img align="left" src="image/linked-in-alt.svg" width="40px" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/khalid633_/" target="_blank">
+<a href="https://www.instagram.com/khalidarrafi/" target="_blank">
   <img align="left" src="image/instagram.svg" width="40px" alt="Instagram" />
 </a>
 <br/>
